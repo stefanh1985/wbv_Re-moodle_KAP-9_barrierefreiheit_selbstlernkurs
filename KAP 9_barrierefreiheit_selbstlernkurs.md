@@ -106,7 +106,7 @@ Bevor Sie in den Kurs einsteigen, nehmen Sie sich fünf Minuten Zeit für eine e
 
 ## Modul 1: Grundlagen, Modelle und Rechtsrahmen
 
-![Illustration Modul 1: Eine diverse Gruppe von vier Personen mit unterschiedlichen Merkmalen sitzt an einem runden Tisch, eine Person nutzt eine Braillezeile, eine andere hat Kopfhörer. Im Hintergrund ein Bildschirm mit der Aufschrift Digitale Teilhabe als Menschenrecht. Flat-Design Comic-Stil, klare Linien, helle und kontrastreiche Farben.](modul1_flat.png "Modul 1, Digitale Teilhabe als gesellschaftspolitische Forderung und rechtliche Verpflichtung")
+![Illustration Modul 1: Eine diverse Gruppe von vier Personen mit unterschiedlichen Merkmalen sitzt an einem runden Tisch, eine Person nutzt eine Braillezeile, eine andere hat Kopfhörer. Im Hintergrund ein Bildschirm mit der Aufschrift Digitale Teilhabe als Menschenrecht. Flat-Design Comic-Stil, klare Linien, helle und kontrastreiche Farben.](modul1.png "Modul 1, Digitale Teilhabe als gesellschaftspolitische Forderung und rechtliche Verpflichtung")
 
 ### 1.1 Theoretische Grundlegung: Das soziale Modell von Behinderung
 
@@ -249,7 +249,7 @@ Wenngleich die beschriebenen Rechtsrahmenwerke einen unbestreitbaren Fortschritt
 
 ## Modul 2: Das WCAG POUR-Prinzip
 
-![Illustration Modul 2: Eine Lehrkraft steht vor einer Wand mit vier farbigen Säulen, beschriftet mit Wahrnehmbar, Bedienbar, Verständlich und Robust. An jeder Säule sind kleine Symbole für Untertitel, Tastatur, Lesebrille und Screenreader angebracht. Darunter eine Leiste mit den drei Stufen A, AA und AAA. Warmherziger Comic-Stil, weiche Konturen, blaues und türkisfarbenes Farbschema.](modul2_warm.png "Modul 2, die vier WCAG Grundprinzipien als Säulenmodell")
+![Illustration Modul 2: Eine Lehrkraft steht vor einer Wand mit vier farbigen Säulen, beschriftet mit Wahrnehmbar, Bedienbar, Verständlich und Robust. An jeder Säule sind kleine Symbole für Untertitel, Tastatur, Lesebrille und Screenreader angebracht. Darunter eine Leiste mit den drei Stufen A, AA und AAA. Warmherziger Comic-Stil, weiche Konturen, blaues und türkisfarbenes Farbschema.](modul2.png "Modul 2, die vier WCAG Grundprinzipien als Säulenmodell")
 
 ### 2.1 Theoretische Grundlegung: Entstehung und Systematik der WCAG
 
@@ -360,7 +360,7 @@ Trotz ihrer zentralen Stellung ist die WCAG kein universelles Lösungsverspreche
 
 ## Modul 3: Barrierefreie Materialien erstellen
 
-![Illustration Modul 3: Eine Referendarin sitzt am Computer und bearbeitet ein Dokument in Word. Auf der rechten Seite des Bildschirms ist ein Barrierefreiheitsprüf-Panel mit grünen Häkchen und roten Ausrufezeichen zu sehen. Im Hintergrund eine Checkliste mit fünf Punkten an der Wand. Flat-Design Comic-Stil, klare Linien, helle und kontrastreiche Farben.](modul3_flat.png "Modul 3, Barrierefreiheitsprüfung eines Dokuments in Word mit integriertem Prüftool")
+![Illustration Modul 3: Eine Referendarin sitzt am Computer und bearbeitet ein Dokument in Word. Auf der rechten Seite des Bildschirms ist ein Barrierefreiheitsprüf-Panel mit grünen Häkchen und roten Ausrufezeichen zu sehen. Im Hintergrund eine Checkliste mit fünf Punkten an der Wand. Flat-Design Comic-Stil, klare Linien, helle und kontrastreiche Farben.](modul3.png "Modul 3, Barrierefreiheitsprüfung eines Dokuments in Word mit integriertem Prüftool")
 
 ### 3.1 Theoretische Grundlegung: Cognitive Load Theory und barrierefreies Design
 
@@ -475,7 +475,7 @@ Aus der kognitionspsychologischen Perspektive der Cognitive Load Theory ist dies
 
 ## Modul 4: Barrierefreiheit in digitalen Lernumgebungen
 
-![Illustration Modul 4: Eine Fortbildnerin betrachtet einen Laptop mit einer Moodle Kursseite, auf der ein Videoelement mit Untertitelschaltfläche und eine H5P Interaktionsaktivität zu sehen sind. Daneben ein Kopfhörersymbol für einen Screenreader und eine Tastatur. Warmherziger Comic-Stil, weiche Konturen, grünes und türkisfarbenes Farbschema.](modul4_warm.png "Modul 4, Barrierefreiheitsprüfung in Moodle und in H5P")
+![Illustration Modul 4: Eine Fortbildnerin betrachtet einen Laptop mit einer Moodle Kursseite, auf der ein Videoelement mit Untertitelschaltfläche und eine H5P Interaktionsaktivität zu sehen sind. Daneben ein Kopfhörersymbol für einen Screenreader und eine Tastatur. Warmherziger Comic-Stil, weiche Konturen, grünes und türkisfarbenes Farbschema.](modul4.png "Modul 4, Barrierefreiheitsprüfung in Moodle und in H5P")
 
 ### 4.1 Theoretische Grundlegung: Accessibility Evaluation als systematische Methode
 
@@ -580,7 +580,7 @@ Der Selbstversuch, eine eigene Moodle Kursseite oder ein selbst erstelltes Arbei
 
 ## Modul 5: Einfache und Leichte Sprache
 
-![Illustration Modul 5: Eine Lehrkraft und eine Erzieher:in sitzen nebeneinander an einem Tisch und vergleichen zwei Versionen desselben Textes. Die linke Version zeigt einen langen Schachtelsatz, die rechte zeigt denselben Inhalt in drei kurzen, klaren Sätzen mit größerer Schrift. Flat-Design Comic-Stil, klare Linien, helle und kontrastreiche Farben.](modul5_flat.png "Modul 5, zwei Versionen desselben Texts im Vergleich")
+![Illustration Modul 5: Eine Lehrkraft und eine Erzieher:in sitzen nebeneinander an einem Tisch und vergleichen zwei Versionen desselben Textes. Die linke Version zeigt einen langen Schachtelsatz, die rechte zeigt denselben Inhalt in drei kurzen, klaren Sätzen mit größerer Schrift. Flat-Design Comic-Stil, klare Linien, helle und kontrastreiche Farben.](modul5.png "Modul 5, zwei Versionen desselben Texts im Vergleich")
 
 ### 5.1 Theoretische Grundlegung: Sprachliche Barrierefreiheit als Menschenrecht und Forschungsgegenstand
 
@@ -704,7 +704,7 @@ Sprachliche Vereinfachung ist, wenngleich aus rechtlichen und ethischen Gründen
 
 ## Modul 6: Universal Design for Learning und Praxistransfer
 
-![Illustration Modul 6: Eine Schulleitung und drei Lehrkräfte stehen vor einer Pinnwand mit einem Drei-Kreise-Diagramm, beschriftet mit Repräsentation, Handlung und Ausdruck sowie Lernengagement. An jedem Kreis hängen Beispielkarten aus dem Schulalltag. Warmherziger Comic-Stil, weiche Konturen, warmes Gelb- und Orangeton-Farbschema.](modul6_warm.png "Modul 6, die drei UDL Grundprinzipien als Planungsrahmen")
+![Illustration Modul 6: Eine Schulleitung und drei Lehrkräfte stehen vor einer Pinnwand mit einem Drei-Kreise-Diagramm, beschriftet mit Repräsentation, Handlung und Ausdruck sowie Lernengagement. An jedem Kreis hängen Beispielkarten aus dem Schulalltag. Warmherziger Comic-Stil, weiche Konturen, warmes Gelb- und Orangeton-Farbschema.](modul6.png "Modul 6, die drei UDL Grundprinzipien als Planungsrahmen")
 
 ### 6.1 Theoretische Grundlegung: Neuropsychologische Grundlagen des Universal Design for Learning
 
@@ -853,7 +853,7 @@ Individuelle Kompetenz in barrierefreier Materialgestaltung ist eine notwendige,
 
 ## Abschluss: Gesamtreflexion und Transfer
 
-![Illustration Abschluss: Eine Gruppe von Lehrkräften und Schulleitungen sitzt in einem Halbkreis und diskutiert eine an der Wand hängende Barrierefreiheitsstrategie. Im Hintergrund leuchtet durch ein Fenster warmes Morgenlicht. Ein Dokument mit dem Titel Institutionelle Barrierefreiheitsstrategie liegt auf dem Tisch. Warmherziger Comic-Stil, goldenes und warmes Licht.](modul_abschluss.png "Abschluss, Entwicklung einer institutionellen Barrierefreiheitsstrategie im kollegialen Gespräch")
+![Illustration Abschluss: Eine Gruppe von Lehrkräften und Schulleitungen sitzt in einem Halbkreis und diskutiert eine an der Wand hängende Barrierefreiheitsstrategie. Im Hintergrund leuchtet durch ein Fenster warmes Morgenlicht. Ein Dokument mit dem Titel Institutionelle Barrierefreiheitsstrategie liegt auf dem Tisch. Warmherziger Comic-Stil, goldenes und warmes Licht.](abschluss.png "Abschluss, Entwicklung einer institutionellen Barrierefreiheitsstrategie im kollegialen Gespräch")
 
 ### Rückblick auf Ihren Lernweg
 
